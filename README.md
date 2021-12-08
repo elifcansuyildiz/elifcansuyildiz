@@ -56,7 +56,7 @@ My hands-on notes for Deep Learning Specialization on Coursera
 
 A Genetic Algorithm has been implemented to generate an image similar to the original form.
 
-### [Path Planning Genetic Algorithm]()
+### [Path Planning Genetic Algorithm](https://github.com/elifcansuyildiz/PathPlanningGeneticAlgorithm)
 
 A Genetic Algorithm has been implemented to find a suitable path from the start point to the target in the map containing obstacles.
 
