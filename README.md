@@ -6,27 +6,24 @@ On this Github page, I share my Computer Vision projects, Deep Learning Projects
 
 ### [Stereo Depth Estimation](https://github.com/elifcansuyildiz/StereoDepthEstimation)
 
+Implemented PSMNet and GC-Net models using PyTorch Deep Learning Framework. The models have been trained on Driving Dataset, Monkaa Dataset, Flyingthings3d Dataset, tested on Kitti Dataset. To attain the highest result, different ideas have been tried and hyperparameter tuning has been carried out in a variety of experiments.
+
 ### [Computer Vision Projects](https://github.com/elifcansuyildiz/ComputerVisionProjects)
 
 This repository consists of 4 projects:
 
 1. Linear Regression and Classification on x data
 2. Decision Forest on y data
-3. SVM using HoG Features
-4. Convolutional Neural Networks
-5. Edge Detection
-6. Segmentation with KMeans
+3. Convolutional Neural Networks
+4. Segmentation with KMeans
 
 ### [Deep Learning Projects](https://github.com/elifcansuyildiz/DeepLearningProjects)
 
 This repository contains the following projects:
 
-1. Basics of Deep Learning: 
-2. Basics of Deep Learning: 
-3. Basics of Deep Learning: 
-4. Finetuning VGG, Resnet, DenseNet and data collection
-5. LSTM and GRU on MNIST dataset
-6. Trinet Siamese
+1. Digit Classification
+2. Logistic Regression
+3. CNNs on SVHN
 
 ### [Machine Learning Notebooks](https://github.com/elifcansuyildiz/MachineLearningNotebooks)
 
@@ -40,14 +37,25 @@ This repository includes notebooks of a number of ML and optimization methods. T
 
 ### [Deep Learning Notebooks](https://github.com/elifcansuyildiz/DeepLearningNotebooks)
 
-This repository contains notebooks of mini deep learning tasks on Pytorch framework. 
+This repository contains notebooks of mini deep learning tasks on PyTorch framework. 
 
 ### [Data Mining Library for Sparkling Water Platform](https://github.com/elifcansuyildiz/DataMiningLibraryForSparklingWaterPlatform)
 
+Mini data mining library using Spark and H2O framework.
+
 ### [Hadoop Netflix Prize Dataset](https://github.com/elifcansuyildiz/HadoopNetflixPrizeDataset)
+
+Big Data Analysis on Netflix Prize Dataset with Hadoop library.
 
 ### [Deep Learning Specialization Notes](https://github.com/elifcansuyildiz/DeepLearningSpecializationNotes)
 
+My hands-on notes for Deep Learning Specialization on Coursera
+
 ### [Image Generation Genetic Algorithm](https://github.com/elifcansuyildiz/ImageGenerationGeneticAlgorithm)
 
+A Genetic Algorithm has been implemented to generate an image similar to the original form.
+
 ### [Path Planning Genetic Algorithm]()
+
+A Genetic Algorithm has been implemented to find a suitable path from the start point to the target in the map containing obstacles.
+
