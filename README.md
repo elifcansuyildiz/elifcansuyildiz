@@ -6,23 +6,24 @@ On this Github page, I share my Computer Vision projects, Deep Learning Projects
 
 ### [Stereo Depth Estimation](https://github.com/elifcansuyildiz/StereoDepthEstimation)
 
-Implemented PSMNet and GC-Net models using PyTorch Deep Learning Framework. The models have been trained on Driving Dataset, Monkaa Dataset, Flyingthings3d Dataset, tested on Kitti Dataset. To attain the highest result, different ideas have been tried and hyperparameter tuning has been carried out in a variety of experiments.
+Implemented PSMNet and GC-Net models using PyTorch Deep Learning Framework. The models have been trained on Driving Dataset, Monkaa Dataset, Flyingthings3D Dataset, tested on Kitti Dataset. To attain the highest result, different ideas have been tried and hyperparameter tuning has been carried out in a variety of experiments.
 
 ### [Computer Vision Projects](https://github.com/elifcansuyildiz/ComputerVisionProjects)
 
 This repository consists of 4 projects:
 
-1. Linear Regression and Classification on x data
-2. Decision Forest on y data
+1. Regression and Classification
+2. Decision Forest for Segmentation
 3. Convolutional Neural Networks
-4. Segmentation with KMeans
+3. Object Classification
+4. Segmentation with k-Means
 
 ### [Deep Learning Projects](https://github.com/elifcansuyildiz/DeepLearningProjects)
 
 This repository contains the following projects:
 
-1. Digit Classification
-2. Logistic Regression
+1. Digit Classification on MNIST
+2. Logistic Regression on CIFAR10
 3. CNNs on SVHN
 
 ### [Machine Learning Notebooks](https://github.com/elifcansuyildiz/MachineLearningNotebooks)
