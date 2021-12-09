@@ -10,7 +10,7 @@ Implemented PSMNet and GC-Net models using PyTorch Deep Learning Framework. The 
 
 ### [Computer Vision Projects](https://github.com/elifcansuyildiz/ComputerVisionProjects)
 
-This repository consists of 4 projects:
+This repository consists of 5 projects:
 
 1. Regression and Classification
 2. Decision Forest for Segmentation
