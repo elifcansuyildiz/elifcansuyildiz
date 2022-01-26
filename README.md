@@ -1,6 +1,6 @@
 ### Hi, I'm Elif 👋
 
-I'm a master's student at the University of Bonn focusing on Computer Vision, Deep Learning and Machine Learning. Also, I'm working as a student research assistant at the [AGROBOTICS](http://agrobotics.uni-bonn.de/group-members/) of the University of Bonn. My responsibilities include researching and implementing vision methods for the challenges in the agricultural vision project.
+I'm a master's student at the University of Bonn specializing in Computer Vision, Deep Learning, and Machine Learning. 
 
 On this Github page, I share my Computer Vision projects, Deep Learning Projects, notebooks as well as other AI projects, and list them below with brief explanations.
 
