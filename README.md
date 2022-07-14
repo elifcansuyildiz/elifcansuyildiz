@@ -29,6 +29,7 @@ This repository contains the following projects:
 1. Digit Classification on MNIST
 2. Logistic Regression on CIFAR10
 3. CNNs on SVHN
+4. Robot-Human Classification
 
 ### [Machine Learning Notebooks](https://github.com/elifcansuyildiz/MachineLearningNotebooks)
 
