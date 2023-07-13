@@ -1,6 +1,6 @@
 ### Hi, I'm Elif 👋
 
-I'm a master's student at the University of Bonn specializing in Computer Vision, Deep Learning, and Machine Learning. 
+I'm a master's student at the University of Bonn specializing in Machine Learning. 
 
 On this Github page, I share my Computer Vision projects, Deep Learning Projects, notebooks as well as other AI projects, and list them below with brief explanations.
 
