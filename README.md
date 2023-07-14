@@ -6,7 +6,7 @@ On this Github page, I share my Computer Vision projects, Deep Learning Projects
 
 ### [Improving Disease Detection with Deep Learning by Examining the Symmetrical Features of the Lungs](https://github.com/elifcansuyildiz/ImprovingDiseaseDetectionBySymmetricFeatures)
 
-Addresses the lung disease detection problem in chest X-rays. Implemented a symmetry-aware deep learning model which utilizes Siamese Network with DenseNet as a feature extractor. Additionally, developed an alignment module to make the lung fields symmetric in the vertical line. Achieved up to 10% improvement in the AUROC score.
+My master's thesis code repository. Addresses the lung disease detection problem in chest X-rays. Implemented a symmetry-aware deep learning model which utilizes Siamese Network with DenseNet as a feature extractor. Additionally, developed an alignment module to make the lung fields symmetric in the vertical line. Achieved up to 10% improvement in the AUROC score.
 
 ### [Stereo Depth Estimation](https://github.com/elifcansuyildiz/StereoDepthEstimation)
 
