@@ -1,7 +1,5 @@
 ### Hi, I'm Elif 👋
 
-I'm a recent computer science master's graduate from the University of Bonn with a focus on Machine Learning. 
-
 On this Github page, I share my Computer Vision projects, Deep Learning Projects, notebooks as well as other AI projects, and list them below with brief explanations.
 
 ### [Improving Disease Detection with Deep Learning by Examining the Symmetrical Features of the Lungs](https://github.com/elifcansuyildiz/ImprovingDiseaseDetectionBySymmetricFeatures)
