@@ -1,14 +1,14 @@
-### Hi, I'm Elif 👋
+### Hi, I'm Cansu 👋
 
 On this Github page, I share my Computer Vision projects, Deep Learning Projects, notebooks as well as other AI projects, and list them below with brief explanations.
 
 ### [Improving Disease Detection with Deep Learning by Examining the Symmetrical Features of the Lungs](https://github.com/elifcansuyildiz/ImprovingDiseaseDetectionBySymmetricFeatures)
 
-My master's thesis code repository. Addresses the lung disease detection problem in chest X-rays. Implemented a symmetry-aware deep learning model which utilizes Siamese Network with DenseNet as a feature extractor. Additionally, developed an alignment module to make the lung fields symmetric in the vertical line. Achieved up to 10% improvement in the AUROC score.
+My master's thesis code repository. Addresses the lung disease detection problem in chest X-rays. Implemented a symmetry-aware deep learning model that utilizes Siamese Network with DenseNet as a feature extractor. Additionally, developed an alignment module to make the lung fields symmetric in the vertical line. Achieved up to 10% improvement in the AUROC score.
 
 ### [Stereo Depth Estimation](https://github.com/elifcansuyildiz/StereoDepthEstimation)
 
-Implemented PSMNet and GC-Net models using PyTorch Deep Learning Framework. The models have been trained on Driving Dataset, Monkaa Dataset, Flyingthings3D Dataset, tested on Kitti Dataset. To attain the highest result, different ideas have been tried and hyperparameter tuning has been carried out in a variety of experiments.
+Implemented PSMNet and GC-Net models using PyTorch Deep Learning Framework. The models have been trained on the Driving Dataset, Monkaa Dataset, Flyingthings3D Dataset, and tested on the Kitti Dataset. To attain the highest result, different ideas have been tried and hyperparameter tuning has been carried out in a variety of experiments.
 
 ### [Image Processing Tool](https://github.com/elifcansuyildiz/ImageProcessingQtApplication)
 
@@ -35,7 +35,7 @@ This repository contains the following projects:
 
 ### [Machine Learning Notebooks](https://github.com/elifcansuyildiz/MachineLearningNotebooks)
 
-This repository includes notebooks of a number of ML and optimization methods. The notebooks are listed below:
+This repository includes notebooks of several ML and optimization methods. The notebooks are listed below:
 
 1. SVM
 2. PCA
@@ -45,7 +45,7 @@ This repository includes notebooks of a number of ML and optimization methods. T
 
 ### [Deep Learning Notebooks](https://github.com/elifcansuyildiz/DeepLearningNotebooks)
 
-This repository contains notebooks of mini deep learning tasks on PyTorch framework. 
+This repository contains notebooks of mini deep learning tasks on the PyTorch framework. 
 
 ### [Data Mining Library for Sparkling Water Platform](https://github.com/elifcansuyildiz/DataMiningLibraryForSparklingWaterPlatform)
 
