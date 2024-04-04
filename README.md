@@ -1,4 +1,4 @@
-### Hi, I'm Cansu 👋
+### Hi, I'm Elif 👋
 
 On this Github page, I share my Computer Vision projects, Deep Learning Projects, notebooks as well as other AI projects, and list them below with brief explanations.
 
